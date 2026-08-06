@@ -1,7 +1,7 @@
 # 👋 Hi, I am Kalilu Jabbie
 
-**Data Analyst | Economist | Mathematics & Accounting Educator**
-📍 Brikama, The Gambia  
+**Aspiring Data Analyst | Economist | Mathematics & Economics Educator**
+📍 Brikama, West Coast Region, The Gambia  
 📧 ibrahimkhalilag137@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ibrahm-khalil-ibkj3123my)
 
@@ -15,19 +15,19 @@ analytics. I work at the intersection of economic research,
 quantitative analysis, and data-driven decision-making.
 
 I have experience in:
-- Conducting government surveys and analysing field data
+- Conducting government surveys
   (Ministry of Trade, Business Perception Survey 2024)
-- Teaching Economics, Mathematics, and Accounting at
+- Teaching Economics, Mathematics at
   secondary level
-- Quantitative research using Stata, Python, R, and Power BI
+- Quantitative research using Stata, SPSS, Python, R, and Power BI
 
----
+
 
 ## 🛠️ Technical Skills
 
 | Tool | Level |
 |------|-------|
-| Stata | Intermediate–Advanced |
+| Stata, SPSS | Intermediate–Advanced |
 | Python (Pandas, Matplotlib) | Intermediate |
 | SQL | Intermediate |
 | R / EViews | Intermediate |
@@ -48,9 +48,7 @@ stationarity tests, pairwise correlation, and robust regression.
 
 ### 📊 Business Perception Survey Analysis — Ministry of Trade
 **Tools:** Stata | Descriptive Statistics | Report Writing  
-Field survey conducted for the Gambian Ministry of Trade,
-collecting and analysing business perception data to inform
-policy recommendations.  
+Field survey conducted for the Gambian Ministry of Trade
 [View Project →](link-to-repo)
 
 ---
@@ -58,6 +56,7 @@ policy recommendations.
 ## 🎓 Education & Certifications
 
 - **B.Sc. Economics** (Mathematics Minor) — University of The Gambia, 2024
+-- **Certificate in Research Methods & Data Software Tools** — Centre for Monitoring, Evaluation and Research, 2026
 - **Certificate in Data Analytics** — Jambar Data Analytics Institute, 2025
 - **Certificate in Research & Data Analysis** — Centre for Data Analytics, 2025
 - **Python Essentials, Data Analytics Essentials, Data Science**
@@ -69,9 +68,8 @@ policy recommendations.
 
 ## 📈 Currently Working On
 
-- C-MER Mini Research Project on climate and agriculture
 - Building my data analytics portfolio
-- Learning advanced econometrics in Stata
+- Learning advanced SQL and python econometrics in Stata
 
 ---
 
