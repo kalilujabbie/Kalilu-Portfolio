@@ -56,7 +56,7 @@ Field survey conducted for the Gambian Ministry of Trade
 ## 🎓 Education & Certifications
 
 - **B.Sc. Economics** (Mathematics Minor) — University of The Gambia, 2024
--- **Certificate in Research Methods & Data Software Tools** — Centre for Monitoring, Evaluation and Research, 2026
+- **Certificate in Research Methods & Data Software Tools** — Centre for Monitoring, Evaluation and Research, 2026
 - **Certificate in Data Analytics** — Jambar Data Analytics Institute, 2025
 - **Certificate in Research & Data Analysis** — Centre for Data Analytics, 2025
 - **Python Essentials, Data Analytics Essentials, Data Science**
