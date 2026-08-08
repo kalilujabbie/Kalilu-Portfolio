@@ -38,6 +38,11 @@ I have experience in:
 
 ## 📂 Featured Projects
 
+### 💸 Remittances & Inflation in The Gambia
+**Tools:** Python | Pandas | Statsmodels | World Bank API
+Analysis of how remittance inflows relate to consumer price inflation in The Gambia (1978–2024) using live World Bank data, OLS regression, and time-series visualization.
+[View Project →](https://github.com/kalilujabbie/Gambia-remittances-inflation)
+
 ### 🌧️ Rainfall Variability & Groundnut Farmer Income — The Gambia
 **Tools:** Stata 17 | OLS Regression | Time-Series Analysis  
 Research examining how rainfall variability affects the income
