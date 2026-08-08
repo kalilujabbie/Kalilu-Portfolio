@@ -49,7 +49,7 @@ Research examining how rainfall variability affects the income
 of groundnut farmers in The Gambia from 1991 to 2024.
 Includes rolling standard deviation computation, ADF
 stationarity tests, pairwise correlation, and robust regression.  
-[View Project →](link-to-repo)
+[View Project →](https://github.com/kalilujabbie/Rainfall-variability-groundnut-income)
 
 ### 📊 Business Perception Survey Analysis — Ministry of Trade
 **Tools:** Stata | Descriptive Statistics | Report Writing  
